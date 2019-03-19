@@ -1,2 +1,0 @@
-# datasciencecoursera
-Assignement repo
